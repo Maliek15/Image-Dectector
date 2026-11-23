@@ -1,7 +1,7 @@
 /* 
 ====================
 Image Subject Detection Application
-Author Name
+Dwayne Hendricks
 Date
 Demo from PROG 102 Code
 ====================
@@ -10,7 +10,7 @@ Demo from PROG 102 Code
 
 /* HTML styles */
  body {
- background: #ffffff;
+ background: #EBFFDC;
  }
 
 .content {  
@@ -36,6 +36,6 @@ Demo from PROG 102 Code
     }
 
     #dropzone.hover {
-      border-color: #2b8efc;
+      border-color: #EBFFDC;
       color: #2b8efc;
     }
